@@ -1,0 +1,13 @@
+package passportApplication;
+
+public class MainPassport {
+
+	public static void main(String[] args) {
+		Application a1 = new Application("Sanjit", 13, "Indian", "No");
+		a1.checkcredentials();
+//		Application a2 = new Application("Jack", 33, "Indian", "No");
+//		a2.checkcredentials();
+		
+	}
+
+}

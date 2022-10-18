@@ -1,0 +1,9 @@
+
+K
+java:S2097+"Add a type test to this method.(ЌЬСг8—’Е¦Ѕ0HЦRMINORZBUG
+‚	java:S116	"QRename this field "Salary" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ъ-8—’Е¦Ѕ0HХRMINORZ
+CODE_SMELL
+o
+java:S22593"CA "NullPointerException" could be thrown; "other" is nullable here.(їќЏ•8—’Е¦Ѕ0HСRMAJORZBUG
+n	java:S125,"<This block of commented-out lines of code should be removed.(Ы–Іэ8—’Е¦Ѕ0HЧRMAJORZ
+CODE_SMELL

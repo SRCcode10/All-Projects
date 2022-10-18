@@ -1,0 +1,12 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(Û–²ı8ËºÂ¼0HãRMAJORZ
+CODE_SMELL
+t
+java:S2259"CA "NullPointerException" could be thrown; "other" is nullable here.(¥Í÷¬ùÿÿÿÿ8ËºÂ¼0HéRMAJORZBUG
+K
+java:S2097"Add a type test to this method.(ÜÑã8ËºÂ¼0HíRMINORZBUG
+a
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ËºÂ¼0HîRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ºĞôûÿÿÿÿ8ËºÂ¼0HğRMAJORZ
+CODE_SMELL

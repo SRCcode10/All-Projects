@@ -1,0 +1,23 @@
+package com.dlcandidate;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		candidate dl1 = new candidate("sanjit", 21, 1, 0);
+		dl1.checkAge();
+		dl1.verifyMedical();
+		dl1.verifyPolice();
+		
+		candidate dl2 = new candidate("Tushar", 24, 0, 1);
+		dl2.checkAge();
+		dl2.verifyMedical();
+		dl2.verifyPolice();
+		
+		candidate dl3 = new candidate("aditya", 17, 1, 1);
+		dl3.checkAge();
+		dl3.verifyMedical();
+		dl3.verifyPolice();
+	}
+
+}

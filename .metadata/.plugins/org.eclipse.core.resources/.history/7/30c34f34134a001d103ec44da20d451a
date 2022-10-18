@@ -1,0 +1,14 @@
+package com.Props;
+
+import java.lang.module.Configuration;
+
+import org.apache.commons.configuration2.PropertiesConfiguration;
+
+public class PropDemo {
+	
+	public static void main(String[] args) {
+		PropertiesConfiguration cnfog = null;
+		Configurations configuration = new Configurations(); 
+	}
+
+}

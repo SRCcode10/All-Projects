@@ -1,0 +1,9 @@
+
+o
+java:S2259"CA "NullPointerException" could be thrown; "other" is nullable here.(¿•8¤ÿ¨Œ¼0H¾RMAJORZBUG
+n	java:S125"<This block of commented-out lines of code should be removed.(Û–²ı8¤ÿ¨Œ¼0HÂRMAJORZ
+CODE_SMELL
+K
+java:S2097"Add a type test to this method.(ÜÑã8¤ÿ¨Œ¼0HÈRMINORZBUG
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²÷—•úÿÿÿÿHÉRMINORZ
+CODE_SMELL

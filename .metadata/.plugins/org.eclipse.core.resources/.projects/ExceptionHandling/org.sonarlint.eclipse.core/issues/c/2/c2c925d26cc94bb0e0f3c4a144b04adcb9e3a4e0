@@ -1,0 +1,16 @@
+
+g
+java:S1854
+"5Remove this useless assignment to local variable "x".(ï»Šó8¢é¯‰»0H)RMAJORZ
+CODE_SMELL
+q
+java:S3518
+"CMake sure this expression can't be zero before doing this division.(ï»Šó8¢é¯‰»0H*RCRITICALZBUG
+X
+java:S1481
+"&Remove this unused "x" local variable.(ï»Šó8¢é¯‰»0H+RMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÜáûH-RMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(¶’Êûûÿÿÿÿ8¢é¯‰»0H.RMAJORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+…
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Üï˜’8­Ý†®¼0HÐRMAJORZ
+CODE_SMELL
+b
+java:S1611"/Remove the parentheses around the "e" parameter(Àà‹ç8­Ý†®¼0HÏRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†µý úÿÿÿÿHÍRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(€†­ð8­Ý†®¼0HÑRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+i
+java:S1854"6Remove this useless assignment to local variable "e3".(‘åß8Ó×´¼0H÷RMAJORZ
+CODE_SMELL
+_
+java:S1481
+"'Remove this unused "e2" local variable.(çåÒøúÿÿÿÿ8Ó×´¼0HóRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÉØÂ8Ó×´¼0HòRMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "e3" local variable.(‘åß8Ó×´¼0HõRMINORZ
+CODE_SMELL
+n
+java:S1854
+"6Remove this useless assignment to local variable "e2".(çåÒøúÿÿÿÿ8Ó×´¼0HñRMAJORZ
+CODE_SMELL

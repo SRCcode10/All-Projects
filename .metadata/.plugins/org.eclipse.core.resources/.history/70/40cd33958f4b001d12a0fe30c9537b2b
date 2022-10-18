@@ -1,0 +1,10 @@
+package passportApplication;
+
+public class MainPassport {
+
+	public static void main(String[] args) {
+		Application a1 = new Application("Jack", 88, "American", "Yes");
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.Props;
+
+import org.apache.commons.configuration2.builder.fluent.Configurations;
+
+public class PropDemo {
+	
+	public static void main(String[] args) {
+		  
+		 
+	}
+
+}

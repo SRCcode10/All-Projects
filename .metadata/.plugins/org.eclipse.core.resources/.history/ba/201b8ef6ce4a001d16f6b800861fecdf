@@ -1,0 +1,11 @@
+package com.dlcandidate;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		candidate dl1 = new candidate("sanjit", 21, 1, 0);
+		dl1.checkAge();
+	}
+
+}

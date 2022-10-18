@@ -1,0 +1,11 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥ð²ê8èçþ®¼0HÞRMAJORZ
+CODE_SMELL
+q
+java:S1612">Replace this lambda with method reference 'Employee::getName'.(€Àë¤8Üô±¯¼0HàRMINORZ
+CODE_SMELL
+…
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(€Àë¤8èçþ®¼0HÝRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†µý úÿÿÿÿHÛRMINORZ
+CODE_SMELL

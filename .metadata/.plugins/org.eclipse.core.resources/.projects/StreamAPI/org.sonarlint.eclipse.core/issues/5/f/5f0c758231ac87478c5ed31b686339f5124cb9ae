@@ -1,0 +1,11 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ֵ²“־רÿÿÿÿHÛRMINORZ
+CODE_SMELL
+L
+java:S1700"Rename field "bonus"(נן¶תÿÿÿÿ8קֻֿװ¼0HÞRMAJORZ
+CODE_SMELL
+”	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(נן¶תÿÿÿÿ8קֻֿװ¼0HßRCRITICALZ
+CODE_SMELL
+~
+java:S1214"CMove constants defined in this interfaces to another class or enum.(¥ּֿÿÿÿÿÿ8קֻֿװ¼0HאRCRITICALZ
+CODE_SMELL

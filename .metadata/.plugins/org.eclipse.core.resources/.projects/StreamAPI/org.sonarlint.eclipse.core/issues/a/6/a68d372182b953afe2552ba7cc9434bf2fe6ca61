@@ -1,0 +1,21 @@
+
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8ÇÒú¶¼0H†RMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8š¶ý¶¼0HþRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(†£³¤8Ììÿ¶¼0HƒRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Å‹‹Õ8®ö—¶¼0H‚RMAJORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÇÒú¶¼0H€RMINORZ
+CODE_SMELL
+
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(›úÐæøÿÿÿÿ8ÇÒú¶¼0HýRMAJORZBUG
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÇÒú¶¼0H„RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ê˜„›8®ö—¶¼0HˆRMAJORZ
+CODE_SMELL
